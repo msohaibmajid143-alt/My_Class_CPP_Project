@@ -1,9 +1,9 @@
-# C++ Conditional Statements
+**C++ Conditional Statements**
 
 This repository contains basic C++ programs for practicing
 conditional statements.
 
-## Topics Covered
+**Topics Covered**
 
 - if statement
 - if-else statement
@@ -13,7 +13,7 @@ conditional statements.
 - Logical operators
 - Relational operators
 
-## Programs
+**Programs**
 
 1. Check whether a number is positive or negative
 2. Check whether a number is divisible by 3 and 5
@@ -21,10 +21,9 @@ conditional statements.
 4. Student grade calculator
 5. Simple calculator using switch
 
-## Language
+ **Language**
 
 - C++
 
-## Author
-
-Muhammad Sohaib
+**Authors**
+**Muhammad Sohaib and Muhammad Abubakar**
